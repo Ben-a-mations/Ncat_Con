@@ -1,9 +1,10 @@
 # Ncat_Con
 ## Install
   1. Git Clone of the repository
-  2. Run ./install.sh (use sudo or input password)
-  3. Run cd ..
-  4. Run netcon!
+  2. Run chmod +x install.sh and man.sh
+  3. Run ./install.sh (use sudo or input password)
+  4. Run cd ..
+  5. Run netcon!
 
   ![image](https://raw.githubusercontent.com/Ben-a-mations/Ncat_Con/main/images/Ncat_Con.png)
 ## I Use Windows!
