@@ -6,3 +6,5 @@
   4. Run netcon!
 
   ![image](https://raw.githubusercontent.com/Ben-a-mations/Ncat_Con/main/images/Ncat_Con.png)
+## I Use Windows!
+  I will try and make a windows version soon!
